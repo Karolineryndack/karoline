@@ -1,21 +1,21 @@
-body {background-color :#D9CF43;
+body {background-color :#c343d9;
       color: #F2F2F2;
 }
 
 #titulo {
-    color: #8C3503;
+    color: #2a038c;
     text-align:center;
     font-size: 40px;
 }
 .texto1 {
-    color: #8C3503;
+    color: #8c0367;
     text-align:justify;
     font-size: 28px;
     font-family: Lucida Sans;
 }
 
 .texto2 {
-    color: #8C3503;
+    color: #e1a9f0;
     text-align:justify;
     font-size: 38px;
     font-family: Lucida Sans;
